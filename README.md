@@ -9,8 +9,8 @@
 Debug the server and get routes working
 ### Links and Resources
 
-- [GitHub Actions ci/cd]()
-- [back-end server]()
+- [GitHub Actions ci/cd](https://github.com/MalikTorres/bearer-auth/actions)
+- [back-end server](https://bearer-auth-r674.onrender.com)
 
 
 ### Collaborators
